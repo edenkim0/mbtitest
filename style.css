@@ -25,6 +25,10 @@ body {
     display: none;
 }
 
+#result {
+    display: none;
+}
+
 .qBox {
     background-color: white;
     width: 80%;
