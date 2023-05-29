@@ -67,6 +67,6 @@ function shareURL () {
 
 function shareMessage() {
     Kakao.Share.sendScrap({
-        requestUrl: 'https://moonlit-treacle-71eb2a.netlify.app',
+        requestUrl: 'https://venerable-paletas-5f6654.netlify.app',
     });
 }
