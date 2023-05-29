@@ -64,3 +64,9 @@ function shareURL () {
 
     document.body.removeChild(dummy);
 }
+
+function shareMessage() {
+    Kakao.Share.sendScrap({
+        requestUrl: 'https://moonlit-treacle-71eb2a.netlify.app',
+    });
+}
